@@ -1,3 +1,4 @@
+:nerd_face:
 # ogx360 - Overview
 ![CI](https://github.com/kitspace-test-repos/ogx360/actions/workflows/ci.yml/badge.svg)  
 
